@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_50">#FFf8f8f8</color>
+    <color name="black_900">#FF171717</color>
+    <color name="black_800">#FF363636</color>
+    <color name="black_700">#FF555555</color>
+
+    <color name="neo_300">#4bd09f</color>
+    <color name="neo_500">#00ba76</color>
+
+    <color name="biz_500">#5e00f5</color>
+    <color name="biz_700">#3700e7</color>
+
+
+    <color name="top_300">#eb236c</color>
+    <color name="top_500">#eb236c</color>
+
+    <color name="pro_800">#0066ff</color>
+    <color name="pro_900">#2341e0</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetVoice</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_clear">Clear</string>
+    <string name="hint">What are you interesting?</string>
+    <string name="do_not_understand">Sorry, I dont understand, can you repeat?</string>
+    <string name="recogition">Voice recognition unavailable</string>
+    <string name="somthing_went_wrong">Something went wrong</string>
+    <string name="tts">TTS is not ready</string>
+
+
+
+
+
+</resources>
